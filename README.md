@@ -13,6 +13,7 @@ Accelerated VPN: [https:/docs.aws.amazon.com/vpn/latest/s2svpn/accelerated-vpn.h
 ### Client VPN
 What is Client VPN: [https:/docs.aws.amazon.com/vpn/latest/clientvpn-admin/what-is.html](https:/docs.aws.amazon.com/vpn/latest/clientvpn-admin/what-is.html)
 
+Authorization rules: [https://docs.aws.amazon.com/vpn/latest/clientvpn-admin/cvpn-working-rules.html](https://docs.aws.amazon.com/vpn/latest/clientvpn-admin/cvpn-working-rules.html)
 
 ### Direct Connect
 
