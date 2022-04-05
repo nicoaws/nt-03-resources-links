@@ -14,8 +14,10 @@ Accelerated VPN: [https:/docs.aws.amazon.com/vpn/latest/s2svpn/accelerated-vpn.h
 What is Client VPN: [https:/docs.aws.amazon.com/vpn/latest/clientvpn-admin/what-is.html](https:/docs.aws.amazon.com/vpn/latest/clientvpn-admin/what-is.html)
 
 
-
 ### Direct Connect
+
+re:Invent 2018 Deep Dive: [https://www.youtube.com/watch?v=DXFooR95BYc](https://www.youtube.com/watch?v=DXFooR95BYc)
+
 [https:/docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-direct-connect.html](https:/docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-direct-connect.html)
 
 
@@ -35,7 +37,9 @@ Maximum Resiliency: [https:/docs.aws.amazon.com/directconnect/latest/UserGuide/m
 ### AWS Cloud WAN
 What is AWS CloudWAN: [https:/docs.aws.amazon.com/vpc/latest/cloudwan/what-is-cloudwan.html](https:/docs.aws.amazon.com/vpc/latest/cloudwan/what-is-cloudwan.html)
 
-[https:/docs.aws.amazon.com/vpc/latest/cloudwan/cloudwan-policy-changesets.html](https:/docs.aws.amazon.com/vpc/latest/cloudwan/cloudwan-policy-changesets.html)
+CloudWAN Changesets: [https:/docs.aws.amazon.com/vpc/latest/cloudwan/cloudwan-policy-changesets.html](https:/docs.aws.amazon.com/vpc/latest/cloudwan/cloudwan-policy-changesets.html)
+
+re:Invent 2021 session: [https://www.youtube.com/watch?v=pBqGe9cj33g](https://www.youtube.com/watch?v=pBqGe9cj33g)
 
 ### Route53 Resolver
 [https:/docs.aws.amazon.com/Route53/latest/DeveloperGuide/resolver.html](https:/docs.aws.amazon.com/Route53/latest/DeveloperGuide/resolver.html)
