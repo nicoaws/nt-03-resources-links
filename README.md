@@ -1,4 +1,4 @@
-# AWS London Summit  - Building hybrid network connectivity with AWS (NET-201)
+# AWS London Summit  - Simplify and scale your hybrid global networking with AWS (NET-201)
 
 ## Resources
 
