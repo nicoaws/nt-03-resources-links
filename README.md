@@ -1,4 +1,4 @@
-# AWS London Summit  - Building hybrid network connectivity with AWS (NT-03)
+# AWS London Summit  - Building hybrid network connectivity with AWS (NET-201)
 
 ## Resources
 
@@ -14,6 +14,9 @@ Accelerated VPN: [https:/docs.aws.amazon.com/vpn/latest/s2svpn/accelerated-vpn.h
 What is Client VPN: [https:/docs.aws.amazon.com/vpn/latest/clientvpn-admin/what-is.html](https:/docs.aws.amazon.com/vpn/latest/clientvpn-admin/what-is.html)
 
 Authorization rules: [https://docs.aws.amazon.com/vpn/latest/clientvpn-admin/cvpn-working-rules.html](https://docs.aws.amazon.com/vpn/latest/clientvpn-admin/cvpn-working-rules.html)
+
+### AWS Verified Access
+What is AVA: https://docs.aws.amazon.com/verified-access/latest/ug/what-is-verified-access.html
 
 ### Direct Connect
 
