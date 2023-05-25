@@ -6,8 +6,7 @@
 ### AWS Site-to-Site VPN
 [What is AWS S2S VPN](https:/docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html)
 
-Accelerated VPN: [https:/docs.aws.amazon.com/vpn/latest/s2svpn/accelerated-vpn.html](https:/docs.aws.amazon.com/vpn/latest/s2svpn/accelerated-vpn.html
-)
+Accelerated VPN: [https:/docs.aws.amazon.com/vpn/latest/s2svpn/accelerated-vpn.html](https:/docs.aws.amazon.com/vpn/latest/s2svpn/accelerated-vpn.html)
 
 
 ### Client VPN
